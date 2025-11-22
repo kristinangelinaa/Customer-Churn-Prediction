@@ -246,13 +246,6 @@ The project generates:
 - Real-time risk scoring API
 - Dashboard with Streamlit or Tableau
 
-## Author
-
-[Your Name]
-[Your Email]
-[LinkedIn Profile]
-[GitHub Profile]
-
 ## License
 
 This project is open source and available for portfolio purposes.
